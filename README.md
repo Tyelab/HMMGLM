@@ -7,5 +7,5 @@ The primary functions used for training and testing are "train" and "predict_lik
 - The document will be updated further post publication.
 
 # Citation
-If you use this code, please cite:
+If you use this code, please cite: <br>
 Nancy Padilla-Coreano, Kanha Batra, Makenzie Patarino et al. A cortical-hypothalamic circuit decodes social rank and promotes dominance behavior, 04 November 2020, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-94115/v1]
